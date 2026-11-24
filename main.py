@@ -7,7 +7,7 @@ Stdlib only. No network, no subprocess.
 
 import os
 
-ENTRY = "The locals named their whole planet after dirt, and the oceans \u2014 70% of it \u2014 never got a vote. 4 stars."
+ENTRY = "The locals named their whole planet after dirt. The oceans cover 70% of it and never got a vote. 4 stars."
 
 
 def main() -> None:
